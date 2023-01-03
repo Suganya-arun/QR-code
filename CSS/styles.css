@@ -1,0 +1,43 @@
+body{
+    background: hsl(220, 15%, 55%);
+    text-align: center;
+}
+p{
+    color:rgb(197, 195, 195);
+    font-weight: normal;
+}
+.attribution { 
+    font-size: 0.9375rem; 
+    text-align: center; 
+    margin:12.5rem auto 0 auto;
+}
+.attribution a
+ { 
+    color: hsl(228, 45%, 44%); 
+}
+.container
+{
+    width:18.75rem;
+    height: 31.25rem;
+    text-align:center ;
+    background-color: White;
+    margin:1.25rem auto 1.25rem auto;
+    border: solid;
+    border-color: white;
+    border-radius: 5%;
+
+}
+.image
+{
+    margin:1.25rem auto 0 auto;
+    width: 90%;
+    border:solid;
+    border-color: white;
+    border-radius: 5%;
+}
+.para
+{
+    font-family: 'Outfit', sans-serif;
+    width:17.5rem;
+
+}
